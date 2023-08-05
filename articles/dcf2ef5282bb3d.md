@@ -1,6 +1,6 @@
 ---
 title: "Zennでいっぱい記事書きたいから、まずはGitHub連携をしてみる"
-emoji: "㊗️"
+emoji: "🎉"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GitHub","Zenn"]
 published: true
@@ -54,3 +54,29 @@ https://zenn.dev/zenn/articles/zenn-cli-guide
 # よかったこと
 
 * CLIでいくつかコマンドを打つと、勝手にフォルダー構成をなんとかしてくれるので、その辺は楽だった。
+
+# 追記
+
+記事の公開直後。絵文字が思ってたのと違っていた。
+
+![](https://storage.googleapis.com/zenn-user-upload/dbd7fac66688-20230806.png)
+
+赤くないし、なんか……そもそも絵文字じゃない……？
+
+![](https://storage.googleapis.com/zenn-user-upload/0338b95c85da-20230806.png)
+
+マークダウン上はちゃんと絵文字になってるけど、よく見たらプレビューのところがすでに絵文字じゃなくなってるな。
+
+試しに下記のサイトで「祝」のアイコンをコピーして、マークダウンに貼ってみる。
+
+https://www.webfx.com/tools/emoji-cheat-sheet/
+
+![](https://storage.googleapis.com/zenn-user-upload/6f597a8ec135-20230806.png)
+
+変わった！
+けど、プレビューは変わらない。
+もしかしたら、Zennでは使えない絵文字なのかもしれない。
+
+ということで、クラッカーの絵文字を入れてみたら、プレビューにも反映された。
+絵文字を選ぶときは、ちゃんとプレビューで確認しながらのほうがいいかもしれない。
+
